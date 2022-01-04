@@ -8,7 +8,7 @@
       "ES2020",
       "dom"
     ],
-    "strict": true,
+    "strict": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
